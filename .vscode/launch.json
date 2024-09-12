@@ -15,6 +15,26 @@
       "env": {
         "_LANE_NAME_": ""
       }
+    },
+    {
+      "name": "Golang 云函数断点调试",
+      "type": "go",
+      "request": "launch",
+      "mode": "debug",
+      "program": "${workspaceFolder}/.ae/functionsFramework/golang/server",
+      "args": [
+        "-psm=apaas.function.frame",
+        "-conf-dir=${workspaceFolder}/.ae/functionsFramework/golang/server/conf",
+        "-log-dir=/tmp/log"
+      ],
+      "cwd": "${workspaceFolder}/functions/golang",
+      "preLaunchTask": "PrepareDebugTask",
+      "env": {
+        "_LANE_NAME_": "",
+        "METRICS_LOG_LEVEL": "error",
+        "_LOCAL_DEBUG_MODE_": "true",
+        "_LOCAL_DEBUG_PORT_FILE_": "${workspaceFolder}/.ae/functionsFramework/port"
+      }
     }
   ]
 }
