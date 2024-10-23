@@ -1,0 +1,16 @@
+{
+  "apiID": "package_856ee1__c__function_aadhc6sy4fijw",
+  "apiName": "demog",
+  "label": {
+    "zh_CN": "demog",
+    "en_US": "demog"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}

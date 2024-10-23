@@ -1,0 +1,15 @@
+{
+  "apiName": "democ",
+  "label": {
+    "zh_CN": "democ",
+    "en_US": "democ"
+  },
+  "icon": "./icon.svg",
+  "cover": "./cover.svg",
+  "description": {
+    "zh_CN": "democ 组件描述",
+    "en_US": "democ component description"
+  },
+  "device": ["pc","mobile"],
+  "protocolVersion": "3.0"
+}
