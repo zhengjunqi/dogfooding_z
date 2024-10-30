@@ -1,0 +1,16 @@
+{
+  "apiID": "package_856ee1__c__function_aadhd7a3xdmbi",
+  "apiName": "demotestg",
+  "label": {
+    "zh_CN": "demotestg",
+    "en_US": "demotestg"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
