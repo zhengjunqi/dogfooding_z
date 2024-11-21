@@ -11,7 +11,7 @@
  */
 module.exports = async function (params, context, logger) {
   // 日志功能
-  logger.info(`${new Date()} 函数开始执行1`);
-  return{"res":"执行完成了1"}
+  logger.info(`${new Date()} 函数开始执行`);
+  return{"res":"执行完成了"}
   // 在这里补充业务代码
 }
