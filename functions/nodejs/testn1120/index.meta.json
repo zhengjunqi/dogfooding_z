@@ -10,7 +10,7 @@
     "en_US": "Custom Function"
   },
   "isPublicAPI": false,
-  "frontendSDKInvokable": false,
+  "frontendSDKInvokable": true,
   "longTaskMode": false,
   "input": [],
   "output": []
