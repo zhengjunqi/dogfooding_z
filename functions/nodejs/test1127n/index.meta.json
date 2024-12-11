@@ -1,6 +1,6 @@
 {
   "apiID": "package_856ee1__c__function_aadhi3k3pjiis",
-  "apiName": "test1127nfff",
+  "apiName": "test1127n",
   "label": {
     "zh_CN": "test 1127 n",
     "en_US": "test 1127 n"
@@ -9,9 +9,8 @@
     "zh_CN": "自定义函数",
     "en_US": "Custom Function"
   },
-  "isPublicAPI": false,
-  "frontendSDKInvokable": false,
   "longTaskMode": false,
+  "frontendSDKInvokable": false,
   "input": [],
   "output": []
 }
