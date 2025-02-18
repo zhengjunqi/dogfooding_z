@@ -1,0 +1,16 @@
+{
+  "apiID": "package_856ee1__c__function_aadhvqmtc3ibs",
+  "apiName": "ag111",
+  "label": {
+    "zh_CN": "ag111",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
