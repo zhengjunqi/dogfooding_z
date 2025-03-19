@@ -12,6 +12,7 @@
 module.exports = async function (params, context, logger) {
   // 日志功能
   logger.info(`${new Date()} 函数开始执行1`);
+  logger.info(application.globalVar.getVar("globalParam_3dddab11add"))
   return{"res":"执行完成了"}
   // 在这里补充业务代码
 }
