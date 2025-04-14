@@ -1,8 +1,8 @@
 {
-  "apiID": "package_856ee1__c__function_aadhvqmtc3ibs",
-  "apiName": "ag111",
+  "apiID": "package_856ee1__c__function_aadh7swpab6ju",
+  "apiName": "g0415",
   "label": {
-    "zh_CN": "ag111",
+    "zh_CN": "g0415",
     "en_US": ""
   },
   "description": {
@@ -10,7 +10,7 @@
     "en_US": "Custom Function"
   },
   "longTaskMode": true,
-  "frontendSDKInvokable": true,
+  "frontendSDKInvokable": false,
   "input": [],
   "output": []
 }
