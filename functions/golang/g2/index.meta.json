@@ -1,8 +1,8 @@
 {
-  "apiID": "package_856ee1__c__function_aadh7swpab6ju",
-  "apiName": "g0415",
+  "apiID": "package_856ee1__c__function_aadib33wmoies",
+  "apiName": "g2",
   "label": {
-    "zh_CN": "g0415",
+    "zh_CN": "g2",
     "en_US": ""
   },
   "description": {
@@ -10,7 +10,7 @@
     "en_US": "Custom Function"
   },
   "longTaskMode": true,
-  "frontendSDKInvokable": false,
+  "frontendSDKInvokable": true,
   "input": [],
   "output": []
 }

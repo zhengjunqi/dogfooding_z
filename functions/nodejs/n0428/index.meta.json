@@ -1,15 +1,15 @@
 {
-  "apiID": "package_856ee1__c__function_aadh7swpab6iu",
-  "apiName": "n0415",
+  "apiID": "package_856ee1__c__function_aadib34czou5u",
+  "apiName": "n0428",
   "label": {
-    "zh_CN": "n0415",
+    "zh_CN": "n0428",
     "en_US": ""
   },
   "description": {
     "zh_CN": "自定义函数",
     "en_US": "Custom Function"
   },
-  "longTaskMode": true,
+  "longTaskMode": false,
   "frontendSDKInvokable": false,
   "input": [],
   "output": []
